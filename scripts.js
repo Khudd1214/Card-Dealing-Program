@@ -28,7 +28,7 @@ const fullDeck = [
   "QD",
   "KD",
   "AD",
-  "2C",
+  "2Cl",
   "3C",
   "4C",
   "5C",
